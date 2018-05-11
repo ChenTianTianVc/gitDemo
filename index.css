@@ -1,0 +1,11 @@
+div {
+	width: 100px;
+	height: 200px;
+	background-color: red;
+}
+span {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
